@@ -27,6 +27,13 @@ leadership:
       slack: 'https://hackforla.slack.com/team/U031EU2E6LB'
       github: 'https://github.com/Biuwa'
     picture: https://avatars.githubusercontent.com/Biuwa
+  - name: Parisa Jannatifard
+    github-handle: Parisajf
+    role: Product Manager
+    links:
+      slack: https://hackforla.slack.com/team/U05PG72SL5
+      github: https://github.com/Parisajf
+    picture: https://avatars.githubusercontent.com/Parisajf
   - name: Anousha Shadrach
     github-handle:
     role: UX Designer
